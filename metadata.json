@@ -1,0 +1,11 @@
+{
+  "name": "Download Music Kico",
+  "description": "Tu bot de música en Telegram: Escucha, descubre y disfruta tus canciones favoritas al instante.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "Music Discovery",
+    "High Quality Downloads"
+  ]
+}
